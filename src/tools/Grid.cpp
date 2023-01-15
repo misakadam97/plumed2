@@ -36,6 +36,7 @@
 #include <cstdio>
 #include <cfloat>
 #include <array>
+#include <fstream>
 
 namespace PLMD {
 
